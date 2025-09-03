@@ -1,0 +1,32 @@
+[submodule "Drivers/STM32WBAxx_HAL_Driver"]
+	path = Drivers/STM32WBAxx_HAL_Driver
+	url = https://github.com/STMicroelectronics/stm32wbaxx-hal-driver.git
+	branch = main
+[submodule "Drivers/CMSIS/Device/ST/STM32WBAxx"]
+	path = Drivers/CMSIS/Device/ST/STM32WBAxx
+	url = https://github.com/STMicroelectronics/cmsis-device-wba.git
+	branch = main
+[submodule "Middlewares/ST/filex"]
+	path = Middlewares/ST/filex
+	url = https://github.com/STMicroelectronics/stm32-mw-filex.git
+	branch = main
+[submodule "Middlewares/ST/levelx"]
+	path = Middlewares/ST/levelx
+	url = https://github.com/STMicroelectronics/stm32-mw-levelx.git
+	branch = main
+[submodule "Middlewares/ST/usbx"]
+	path = Middlewares/ST/usbx
+	url = https://github.com/STMicroelectronics/stm32-mw-usbx.git
+	branch = main
+[submodule "Drivers/BSP/STM32WBAxx_Nucleo"]
+	path = Drivers/BSP/STM32WBAxx_Nucleo
+	url = https://github.com/STMicroelectronics/stm32wbaxx-nucleo-bsp.git
+	branch = main
+[submodule "Drivers/BSP/Components/Common"]
+	path = Drivers/BSP/Components/Common
+	url = https://github.com/STMicroelectronics/stm32-bsp-common.git
+	branch = main
+[submodule "Middlewares/Third_Party/FreeRTOS"]
+	path = Middlewares/Third_Party/FreeRTOS
+	url = https://github.com/STMicroelectronics/stm32-mw-freertos.git
+	branch = master
