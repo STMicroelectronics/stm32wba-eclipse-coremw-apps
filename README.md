@@ -2,7 +2,7 @@
 
 ![latest tag](https://img.shields.io/github/v/tag/STMicroelectronics/stm32wba-eclipse-coremw-apps.svg?color=brightgreen)
 
-![freertos](https://img.shields.io/badge/freertos-v11.2.0-blue.svg) ![FileX](https://img.shields.io/badge/filex-6.4.100--beta2-blue.svg) ![LevelX](https://img.shields.io/badge/levelx-6.4.100--beta1-blue.svg) ![USBX](https://img.shields.io/badge/usbx-6.4.100--beta1-blue.svg)
+![freertos](https://img.shields.io/badge/freertos-v11.2.0-blue.svg) ![FileX](https://img.shields.io/badge/filex-6.4.100--beta3-blue.svg) ![LevelX](https://img.shields.io/badge/levelx-6.4.100--beta2-blue.svg) ![USBX](https://img.shields.io/badge/usbx-6.4.100--beta2-blue.svg)
 
 ## Description
 
@@ -64,9 +64,9 @@ STM32WBAxx HAL             |   V1.7.0
 BSP STM32WBAxx NUCLEO      |   V1.1.0
 BSP Common                 |   V7.3.0
 FreeRTOS                   |   V11.2.0
-Eclipse ThreadX FileX      |   V6.4.100-beta2
-Eclipse ThreadX LevelX     |   V6.4.100-beta1
-Eclipse ThreadX USBX       |   V6.4.100-beta1
+Eclipse ThreadX FileX      |   V6.4.100-beta3
+Eclipse ThreadX LevelX     |   V6.4.100-beta2
+Eclipse ThreadX USBX       |   V6.4.100-beta2
 
 ## How to use
 
