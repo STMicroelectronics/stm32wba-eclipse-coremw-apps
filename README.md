@@ -49,8 +49,8 @@ Eclipse ThreadX USBX  | Ux_Host_HID_Standalone                 | Shows how to us
 
 ## Development Toolchains and Compilers
 
- * IAR Embedded Workbench for ARM (EWARM) toolchain **9.60.3** + ST-LINKV3.Patch available [here](https://github.com/STMicroelectronics/STM32CubeWBA/tree/main/Utilities/PC_Software/IDEs_Patches/EWARM)
-
+ * IAR Embedded Workbench for ARM (EWARM) toolchain **9.60.3** + ST-LINKV3
+ * [STM32CubeIDE V2.0.0](https://www.st.com/en/development-tools/stm32cubeide.html) + ST-LINKV3
 
 ## Dependencies
 
@@ -58,10 +58,10 @@ This package has been developed and tested using the list of components detailed
 
 Name                       |   Version
 ---------------------------|---------------
-Cortex-M CMSIS             |   V5.9.0
-STM32WBAxx CMSIS           |   V1.7.0
-STM32WBAxx HAL             |   V1.7.0
-BSP STM32WBAxx NUCLEO      |   V1.1.0
+Cortex-M CMSIS             |   V5.9.0_fix_620_dsp_v1.10.0_nn_v3.1.0_no_doc
+STM32WBAxx CMSIS           |   V1.8.0
+STM32WBAxx HAL             |   V1.8.0
+BSP STM32WBAxx NUCLEO      |   V1.1.1
 BSP Common                 |   V7.3.0
 FreeRTOS                   |   V11.2.0
 Eclipse ThreadX FileX      |   V6.4.100-beta3
