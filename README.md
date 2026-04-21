@@ -2,7 +2,7 @@
 
 ![latest tag](https://img.shields.io/github/v/tag/STMicroelectronics/stm32wba-eclipse-coremw-apps.svg?color=brightgreen)
 
-![freertos](https://img.shields.io/badge/freertos-v11.2.0-blue.svg) ![FileX](https://img.shields.io/badge/filex-6.4.100--beta3-blue.svg) ![LevelX](https://img.shields.io/badge/levelx-6.4.100--beta2-blue.svg) ![USBX](https://img.shields.io/badge/usbx-6.4.100--beta2-blue.svg)
+![freertos](https://img.shields.io/badge/freertos-v11.2.0-blue.svg) ![FileX](https://img.shields.io/badge/filex-6.4.200-blue.svg) ![LevelX](https://img.shields.io/badge/levelx-6.4.100-blue.svg) ![USBX](https://img.shields.io/badge/usbx-6.4.300-blue.svg)
 
 ## Description
 
@@ -36,7 +36,7 @@ Middleware            | Application                            | Short Descripti
 ----------------------|----------------------------------------|------------------------------------------------------------------------
 Eclipse ThreadX FileX | Fx_File_Edit_Standalone​                | Demonstrates how to create a FAT File system on the SD card memory using FileX running in standalone mode (without RTOS)
 Eclipse ThreadX USBX  | Ux_Device_HID​                          | Shows a typical application where the STM32 MCU is enumerated as an HID device in RTOS mode
-Eclipse ThreadX USBX  | Ux_Device_HID_Standalone​​              | Shows a typical application where the STM32 MCU is enumerated as an HID device in standalone mode (without RTOS)
+Eclipse ThreadX USBX  | Ux_Device_HID_Standalone​​               | Shows a typical application where the STM32 MCU is enumerated as an HID device in standalone mode (without RTOS)
 Eclipse ThreadX USBX  | Ux_Device_CDC_ACM                      | Shows a typical application where the STM32 MCU is enumerated as a CDC device
 Eclipse ThreadX USBX  | Ux_Host_HID                            | Shows how to use a USB host application based on the Human Interface Device (HID) class to connect a mouse or a keyboard in RTOS mode
 Eclipse ThreadX USBX  | Ux_Host_HID_Standalone                 | Shows how to use a USB host application based on the Human Interface Device(HID) class to connect a mouse or a keyboard in standalone mode (without RTOS)
@@ -50,7 +50,7 @@ Eclipse ThreadX USBX  | Ux_Host_HID_Standalone                 | Shows how to us
 ## Development Toolchains and Compilers
 
  * IAR Embedded Workbench for ARM (EWARM) toolchain **9.60.3** + ST-LINKV3
- * [STM32CubeIDE V2.0.0](https://www.st.com/en/development-tools/stm32cubeide.html) + ST-LINKV3
+ * [STM32CubeIDE V2.1.0](https://www.st.com/en/development-tools/stm32cubeide.html) + ST-LINKV3
 
 ## Dependencies
 
@@ -59,14 +59,14 @@ This package has been developed and tested using the list of components detailed
 Name                       |   Version
 ---------------------------|---------------
 Cortex-M CMSIS             |   V5.9.0_fix_620_dsp_v1.10.0_nn_v3.1.0_no_doc
-STM32WBAxx CMSIS           |   V1.8.0
-STM32WBAxx HAL             |   V1.8.0
-BSP STM32WBAxx NUCLEO      |   V1.1.1
+STM32WBAxx CMSIS           |   V1.9.0
+STM32WBAxx HAL             |   V1.9.0
+BSP STM32WBAxx NUCLEO      |   V1.2.0
 BSP Common                 |   V7.3.0
 FreeRTOS                   |   V11.2.0
-Eclipse ThreadX FileX      |   V6.4.100-beta3
-Eclipse ThreadX LevelX     |   V6.4.100-beta2
-Eclipse ThreadX USBX       |   V6.4.100-beta2
+Eclipse ThreadX FileX      |   V6.4.200
+Eclipse ThreadX LevelX     |   V6.4.100
+Eclipse ThreadX USBX       |   V6.4.300
 
 ## How to use
 
