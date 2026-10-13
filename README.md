@@ -2,7 +2,7 @@
 
 ![latest tag](https://img.shields.io/github/v/tag/STMicroelectronics/stm32wba-eclipse-coremw-apps.svg?color=brightgreen)
 
-![freertos](https://img.shields.io/badge/freertos-v11.2.0-blue.svg) ![FileX](https://img.shields.io/badge/filex-6.4.200-blue.svg) ![LevelX](https://img.shields.io/badge/levelx-6.4.100-blue.svg) ![USBX](https://img.shields.io/badge/usbx-6.4.300-blue.svg)
+![freertos](https://img.shields.io/badge/freertos-v11.2.0-blue.svg) ![FileX](https://img.shields.io/badge/filex-6.5.100-blue.svg) ![LevelX](https://img.shields.io/badge/levelx-6.5.100-blue.svg) ![USBX](https://img.shields.io/badge/usbx-6.5.100-blue.svg)
 
 ## Description
 
@@ -59,14 +59,14 @@ This package has been developed and tested using the list of components detailed
 Name                       |   Version
 ---------------------------|---------------
 Cortex-M CMSIS             |   V5.9.0_fix_620_dsp_v1.10.0_nn_v3.1.0_no_doc
-STM32WBAxx CMSIS           |   V1.9.0
-STM32WBAxx HAL             |   V1.9.0
-BSP STM32WBAxx NUCLEO      |   V1.2.0
+STM32WBAxx CMSIS           |   V1.10.0
+STM32WBAxx HAL             |   V1.10.0
+BSP STM32WBAxx NUCLEO      |   V1.2.1
 BSP Common                 |   V7.3.0
 FreeRTOS                   |   V11.2.0
-Eclipse ThreadX FileX      |   V6.4.200
-Eclipse ThreadX LevelX     |   V6.4.100
-Eclipse ThreadX USBX       |   V6.4.300
+Eclipse ThreadX FileX      |   V6.5.100
+Eclipse ThreadX LevelX     |   V6.5.100
+Eclipse ThreadX USBX       |   V6.5.100
 
 ## How to use
 

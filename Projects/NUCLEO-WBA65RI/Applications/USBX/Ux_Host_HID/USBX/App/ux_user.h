@@ -120,10 +120,10 @@
    though the compiler's equivalent of the -D option.  */
 
 /* Define USBX Generic Thread Stack Size.  */
-/* #define UX_THREAD_STACK_SIZE                             (2 * 1024) */
+#define UX_THREAD_STACK_SIZE                             (3 * 1024)
 
 /* Define USBX Host Enum Thread Stack Size. The default is to use UX_THREAD_STACK_SIZE */
-/* #define UX_HOST_ENUM_THREAD_STACK_SIZE                   UX_THREAD_STACK_SIZE  */
+#define UX_HOST_ENUM_THREAD_STACK_SIZE                   UX_THREAD_STACK_SIZE
 
 /* Define USBX Host HCD Thread Stack Size.  The default is to use UX_THREAD_STACK_SIZE */
 /* #define UX_HOST_HCD_THREAD_STACK_SIZE                    UX_THREAD_STACK_SIZE */
